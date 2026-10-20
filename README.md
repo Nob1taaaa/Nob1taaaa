@@ -2,7 +2,7 @@
 <div align="center">
   <img
     src="./ChatGPT%20Image%20Oct%2020,%202026,%2002_39_00%20PM.jpg"
-    width="400"
+    width="600"
     height="150"
     alt="Harshit Shah"
     style="border-radius: 50%;"
