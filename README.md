@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Nob1taaaa.png" width="150" height="150" alt="Harshit Shah" />
+<img src="(https://github.com/Nob1taaaa/Nob1taaaa/blob/main/ChatGPT%20Image%20Oct%2020%2C%202026%2C%2002_39_00%20PM.jpg)" width="150" height="150" alt="Harshit Shah" />
 
 # Hey, I'm Harshit Shah 👋
 
