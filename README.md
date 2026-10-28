@@ -1,13 +1,6 @@
-
 <div align="center">
-  <img
-    src="./ChatGPT%20Image%20Oct%2020,%202026,%2002_39_00%20PM.jpg"
-    width="500"
-    height="150"
-    alt="Harshit Shah"
-    style="border-radius: 50%;"
-  />
-</div>
+
+<img src="./banner.jpg" width="900" alt="Mosaic pool artwork banner" />
 
 # Hey, I'm Harshit Shah 👋
 
@@ -38,7 +31,7 @@ I'm a Computer Science and Engineering student who enjoys building AI-powered ap
 
 ### 🎓 NIU Connect — Your Smart Campus
 
-A student-focused platform designed to bring campus life into one place.
+A student-focused platform that brings campus life into one place.
 
 - 📅 Campus events and announcements
 - 🔎 Lost and found
@@ -80,7 +73,6 @@ A student-focused platform designed to bring campus life into one place.
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nob1taaaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nob1taaaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=Nob1taaaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
